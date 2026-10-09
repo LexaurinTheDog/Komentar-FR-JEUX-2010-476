@@ -484,23 +484,7 @@ Le dernier alinéa contient une règle protectrice importante : la saisine du m�
 >
 > V.-Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du code pénal, de l'infraction prévue au I du présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du code pénal, les peines mentionnées aux 1°, 4°, 8° et 9° de l'article 131-39 du même code. Elles encourent également l'interdiction, pour une durée de cinq ans au plus, de solliciter l'agrément prévu à l'article 21 de la présente loi ainsi que l'autorisation prévue à l'article L. 321-1 du code de la sécurité intérieure et, le cas échéant, le retrait d'un tel agrément ou autorisation si la personne morale en est titulaire au moment du jugement.
 
-*NOTA (source):* II, III, VI, VII et VIII A modifié les dispositions suivantes :
-
-*NOTA (source):* -Loi n° 83-628 du 12 juillet 1983
-
-*NOTA (source):* Art. 1
-
-*NOTA (source):* -Loi du 21 mai 1836
-
-*NOTA (source):* Art. 3
-
-*NOTA (source):* -Loi n° 83-628 du 12 juillet 1983
-
-*NOTA (source):* Art. 3, Art. 4
-
-*NOTA (source):* -Loi du 2 juin 1891
-
-*NOTA (source):* Art. 4
+*NOTA (source):* II, III, VI, VII et VIII A modifié les dispositions suivantes : -Loi n° 83-628 du 12 juillet 1983 Art. 1 -Loi du 21 mai 1836 Art. 3 -Loi n° 83-628 du 12 juillet 1983 Art. 3, Art. 4 -Loi du 2 juin 1891 Art. 4
 
 L'article 56 est la principale disposition pénale de la loi. Le texte consolidé comprend, outre le dispositif en vigueur, une mention éditoriale selon laquelle les II, III, VI, VII et VIII ont modifié d'autres textes (lois du 21 mai 1836, du 2 juin 1891 et n° 83-628 du 12 juillet 1983) ; ces paragraphes modificatifs n'ont plus d'existence autonome et figurent en note. Le I incrimine le fait d'offrir ou de proposer au public une offre en ligne de paris ou de jeux d'argent et de hasard sans être titulaire de l'agrément de l'article 21 ou d'un droit exclusif. La peine est de trois ans d'emprisonnement et 90 000 € d'amende, portée à sept ans et 200 000 € en bande organisée. L'élément matériel est l'offre au public, non la conclusion effective de paris ; le délit est consommé dès que l'offre est proposée.
 
@@ -516,19 +500,7 @@ Le V vise les personnes morales pénalement responsables selon l'article 121-2 d
 >
 > Ces peines sont également encourues par quiconque a, par quelque moyen que ce soit, diffusé au public, aux fins de promouvoir des sites de jeux en ligne ne disposant pas de l'agrément prévu à l'article 21, les cotes et rapports proposés par ces sites non autorisés.
 
-*NOTA (source):* II, III et IV A modifié les dispositions suivantes :
-
-*NOTA (source):* - Loi du 21 mai 1836
-
-*NOTA (source):* Art. 4
-
-*NOTA (source):* - Loi du 2 juin 1891
-
-*NOTA (source):* Art. 4
-
-*NOTA (source):* - Loi n°83-628 du 12 juillet 1983
-
-*NOTA (source):* Art. 1
+*NOTA (source):* II, III et IV A modifié les dispositions suivantes : - Loi du 21 mai 1836 Art. 4 - Loi du 2 juin 1891 Art. 4 - Loi n°83-628 du 12 juillet 1983 Art. 1
 
 L'article 57 incrimine la promotion de l'offre illégale. Comme pour l'article 56, le texte consolidé signale que les II, III et IV ont modifié d'autres lois ; seul subsiste en substance le dispositif reproduit. Le premier alinéa punit d'une amende de 100 000 € quiconque fait de la publicité, par quelque moyen que ce soit, en faveur d'un site de jeux ou paris non autorisé en vertu d'un droit exclusif ou de l'agrément de l'article 21. Le tribunal peut porter l'amende au quadruple des dépenses publicitaires consacrées à l'activité illégale. Ce mode de calcul permet d'adapter la peine à l'ampleur des campagnes et de priver l'auteur de l'intérêt économique de l'infraction.
 
