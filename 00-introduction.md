@@ -1,6 +1,6 @@
 # Commentaire de la loi n° 2010-476 du 12 mai 2010 relative à l'ouverture à la concurrence et à la régulation du secteur des jeux d'argent et de hasard en ligne
 
-> **À propos du commentaire :** le présent commentaire porte sur la loi n° 2010-476 du 12 mai 2010, examinée article par article — **44 articles** dans leur rédaction consolidée en vigueur. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
+> **À propos du commentaire :** le présent commentaire porte sur la loi n° 2010-476 du 12 mai 2010, examinée article par article — **75 articles** : les 44 articles en vigueur dans leur rédaction consolidée et 31 articles abrogés ou purement modificatifs, reproduits pour que la numérotation soit complète. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
 
 ## Données de base
 
@@ -15,7 +15,7 @@
 
 ## Structure de la loi et du commentaire
 
-Dans sa version consolidée, la loi ne comprend plus que 44 articles en vigueur : de nombreux articles d'origine (notamment les articles 1er, 4 à 9, 22, 26, 30, 40, 46 à 55, 58, 60 et 62 à 67) ne figurent plus dans la source, et les chapitres XI (dispositions fiscales), XIII (manifestations sportives) et XIV (droits exclusifs) n'ont plus d'article. Ces articles absents de la version consolidée ne sont pas reproduits.
+Dans sa version consolidée, la loi ne comprend plus que 44 articles en vigueur. Les autres numéros sont reproduits tels que la source les présente, afin que la numérotation soit complète : articles abrogés (1er, 4 à 9, 26, 30, 39-2, 39-3 et 66), avec la date et le texte d'abrogation, et articles purement modificatifs (22, 40, 46 à 55, 58, 60, 62 à 65 et 67), avec la mention « A modifié les dispositions suivantes » et la liste des dispositions modifiées. Les chapitres XI (dispositions fiscales), XIII (manifestations sportives) et XIV (droits exclusifs) ne contiennent que de tels articles modificatifs ou abrogés. Ces articles font l'objet d'un commentaire bref.
 
 Le **chapitre Ier** (art. 2 et 3) renvoie au code de la sécurité intérieure pour la notion de jeu d'argent et de hasard et organise le financement d'études sur l'addiction. Le **chapitre II** (art. 10 à 14) définit le jeu en ligne, l'opérateur, le joueur et le compte joueur, puis autorise, par dérogation et sous agrément, les paris hippiques, les paris sportifs et les jeux de cercle en ligne. Les **chapitres III et IV** (art. 15 à 20) fixent le contenu de la demande d'agrément et les règles du compte joueur. Le **chapitre V** (art. 21) régit la délivrance de l'agrément. Les **chapitres VI à IX** (art. 23 à 33) imposent aux opérateurs agréés certifications, site en « .fr », séparation comptable, rapports sur le jeu responsable, archivage des données en France et prévention des conflits d'intérêts.
 
@@ -23,7 +23,7 @@ Le **chapitre X** (art. 34 à 45-2) institue l'**Autorité nationale des jeux** 
 
 Le commentaire suit cette structure en deux chapitres :
 
-1. **Chapitres Ier à IX** — notion de jeu, catégories de jeux en ligne, agrément et obligations des opérateurs (art. 2 à 33) ;
+1. **Chapitres Ier à IX** — notion de jeu, catégories de jeux en ligne, agrément et obligations des opérateurs (art. 1er à 33) ;
 2. **Chapitres X à XV** — Autorité nationale des jeux, sanctions, médiateur, lutte contre l'offre illégale et dispositions transitoires (art. 34 à 70).
 
 ## Méthode

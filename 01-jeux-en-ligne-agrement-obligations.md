@@ -1,6 +1,14 @@
-# Chapitre du commentaire 01 — Chapitres Ier à IX — Notion de jeu, catégories de jeux et paris en ligne, agrément, lutte contre la fraude, obligations des opérateurs, jeu excessif, transparence et conflits d'intérêts (art. 2 à 33)
+# Chapitre du commentaire 01 — Chapitres Ier à IX — Notion de jeu, catégories de jeux et paris en ligne, agrément, lutte contre la fraude, obligations des opérateurs, jeu excessif, transparence et conflits d'intérêts (art. 1er à 33)
 
 #### CHAPITRE IER — DISPOSITIONS RELATIVES A L'ENSEMBLE DU SECTEUR DES JEUX D'ARGENT ET DE HASARD
+
+### Article 1
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2020-01-01 par Ordonnance n°2019-1015 du 2 octobre 2019 - art. 12)
+
+L'article 1er ouvrait le chapitre Ier, consacré aux dispositions relatives à l'ensemble du secteur des jeux d'argent et de hasard. Selon la source, il est abrogé à compter du 1er janvier 2020 par l'article 12 de l'ordonnance n° 2019-1015 du 2 octobre 2019, de même que les articles 4 à 9 du même chapitre. Son contenu n'est pas reproduit et le commentaire ne le reconstitue pas. Le chapitre Ier ne conserve en vigueur que l'article 2, qui définit la notion de jeu d'argent et de hasard par renvoi à l'article L. 320-1 du code de la sécurité intérieure, et l'article 3, relatif aux études scientifiques sur les jeux d'argent.
 
 ### Article 2
 
@@ -29,6 +37,54 @@ L'article 3 institue un dispositif de connaissance scientifique du secteur. Un o
 Le financement repose sur les opérateurs titulaires de droits exclusifs, qui doivent consacrer au moins 0,002 % du montant des mises qu'ils enregistrent à des études relevant de ce champ. L'assiette retenue est le montant brut des mises, non le produit net, ce qui rattache la contribution au volume de l'activité. Deux garanties encadrent cette obligation : le thème et la méthodologie des études financées doivent être préalablement validés par l'organisme désigné, et l'opérateur peut s'acquitter de son obligation en contribuant directement au financement des travaux conduits par cet organisme. Les opérateurs ne peuvent donc pas se libérer en finançant des études de leur choix, non validées.
 
 On notera que seuls les opérateurs sous droits exclusifs sont visés, non les opérateurs agréés de jeux en ligne. La disposition s'articule avec l'article 34, qui permet à l'Autorité nationale des jeux de s'appuyer sur « l'organisme mentionné à l'article 3 » pour définir les tests exigés lors des demandes d'autorisation de jeux sous droits exclusifs (V, deuxième alinéa) et pour l'évaluation des jeux autorisés à titre expérimental (V, troisième alinéa). L'article 3 fournit ainsi un appui technique et scientifique à la politique de prévention du jeu excessif développée aux articles 27 à 29 et au IX de l'article 34.
+
+### Article 4
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2020-01-01 par Ordonnance n°2019-1015 du 2 octobre 2019 - art. 12)
+
+L'article 4 relevait du chapitre Ier (dispositions relatives à l'ensemble du secteur des jeux d'argent et de hasard). Selon la source, il est abrogé à compter du 1er janvier 2020 par l'article 12 de l'ordonnance n° 2019-1015 du 2 octobre 2019 ; son contenu n'est pas reproduit et le commentaire ne le reconstitue pas. Il suit l'article 3, relatif aux études scientifiques sur les jeux d'argent, qui demeure en vigueur.
+
+### Article 5
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2020-01-01 par Ordonnance n°2019-1015 du 2 octobre 2019 - art. 12)
+
+L'article 5 relevait du chapitre Ier (dispositions relatives à l'ensemble du secteur des jeux d'argent et de hasard). Selon la source, il est abrogé à compter du 1er janvier 2020 par l'article 12 de l'ordonnance n° 2019-1015 du 2 octobre 2019 ; son contenu n'est pas reproduit et le commentaire ne le reconstitue pas. Il appartient à la série des articles 4 à 9 du chapitre Ier, tous abrogés à la même date et par le même texte.
+
+### Article 6
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2020-01-01 par Ordonnance n°2019-1015 du 2 octobre 2019 - art. 12)
+
+L'article 6 relevait du chapitre Ier (dispositions relatives à l'ensemble du secteur des jeux d'argent et de hasard). Selon la source, il est abrogé à compter du 1er janvier 2020 par l'article 12 de l'ordonnance n° 2019-1015 du 2 octobre 2019 ; son contenu n'est pas reproduit et le commentaire ne le reconstitue pas. Comme les articles 4, 5 et 7 à 9, il n'a plus de rédaction en vigueur.
+
+### Article 7
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2020-01-01 par Ordonnance n°2019-1015 du 2 octobre 2019 - art. 12)
+
+L'article 7 relevait du chapitre Ier (dispositions relatives à l'ensemble du secteur des jeux d'argent et de hasard). Selon la source, il est abrogé à compter du 1er janvier 2020 par l'article 12 de l'ordonnance n° 2019-1015 du 2 octobre 2019 ; son contenu n'est pas reproduit et le commentaire ne le reconstitue pas. Il est mentionné pour la complétude de la numérotation du chapitre Ier.
+
+### Article 8
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2020-01-01 par Ordonnance n°2019-1015 du 2 octobre 2019 - art. 12)
+
+L'article 8 relevait du chapitre Ier (dispositions relatives à l'ensemble du secteur des jeux d'argent et de hasard). Selon la source, il est abrogé à compter du 1er janvier 2020 par l'article 12 de l'ordonnance n° 2019-1015 du 2 octobre 2019 ; son contenu n'est pas reproduit et le commentaire ne le reconstitue pas. Avec les articles 1er et 4 à 9, il témoigne de l'ampleur de la refonte du chapitre Ier opérée par l'ordonnance de 2019, qui n'en a laissé subsister que les articles 2 et 3.
+
+### Article 9
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2020-01-01 par Ordonnance n°2019-1015 du 2 octobre 2019 - art. 12)
+
+L'article 9 relevait du chapitre Ier (dispositions relatives à l'ensemble du secteur des jeux d'argent et de hasard). Selon la source, il est abrogé à compter du 1er janvier 2020 par l'article 12 de l'ordonnance n° 2019-1015 du 2 octobre 2019 ; son contenu n'est pas reproduit et le commentaire ne le reconstitue pas. Il clôturait le chapitre Ier ; le chapitre II, consacré aux catégories de jeux et paris en ligne soumis à agrément, s'ouvre ensuite avec l'article 10.
 
 #### CHAPITRE II — LES CATEGORIES DE JEUX ET PARIS EN LIGNE SOUMIS A AGREMENT
 
@@ -300,6 +356,18 @@ Le IV prévoit que la décision d'octroi précise l'offre autorisée et, le cas 
 
 #### CHAPITRE VI — LES OBLIGATIONS DES OPERATEURS AGREES DE JEUX EN LIGNE ET LA LUTTE CONTRE LE BLANCHIMENT
 
+### Article 22
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> -Code monétaire et financier
+>
+> Art. L561-2, Art. L561-36, Art. L561-38, Art. L561-37
+
+L'article 22 ouvre le chapitre VI, consacré aux obligations des opérateurs agréés de jeux en ligne et à la lutte contre le blanchiment. Selon la source, il a modifié les articles L. 561-2, L. 561-36, L. 561-37 et L. 561-38 du code monétaire et financier. Il s'agit d'un article purement modificatif, sans période de vigueur propre dans la base LEGI : l'assujettissement des opérateurs aux règles de lutte contre le blanchiment résulte des articles modifiés du code. L'article 43 de la loi renvoie d'ailleurs aux articles L. 561-37 et L. 561-38 de ce code.
+
 ### Article 23
 
 **Texte de la disposition:**
@@ -352,6 +420,14 @@ L'article 25 présente aussi une dimension concurrentielle. L'article 39 prévoi
 
 #### CHAPITRE VII — LA LUTTE CONTRE LE JEU EXCESSIF OU PATHOLOGIQUE
 
+### Article 26
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2020-01-01 par Ordonnance n°2019-1015 du 2 octobre 2019 - art. 12)
+
+L'article 26 ouvrait le chapitre VII, consacré à la lutte contre le jeu excessif ou pathologique. Selon la source, il est abrogé à compter du 1er janvier 2020 par l'article 12 de l'ordonnance n° 2019-1015 du 2 octobre 2019 ; son contenu n'est pas reproduit. Le chapitre conserve les articles 27 à 29 (rapport annuel de l'opérateur, obligations de prévention, numéro d'appel pour les joueurs excessifs ou pathologiques). L'article 33, qui vise la série « 25 à 28 », doit être lu en tenant compte de cette abrogation.
+
 ### Article 27
 
 **Texte de la disposition:**
@@ -393,6 +469,14 @@ L'article 29 institue un numéro d'appel téléphonique mis à la disposition de
 Le second alinéa fixe le coût de l'appel pour l'usager : il est facturé au prix d'un appel local. La règle vise à éviter que le coût de l'appel ne dissuade la personne en difficulté.
 
 L'article 29 est le point d'appui des articles voisins. L'article 28, I, oblige les opérateurs agréés à informer en permanence les joueurs de l'existence de ce service ; l'article 28, II, encadre les services d'information et d'assistance proposés par d'autres organismes. L'ensemble forme le volet « assistance » de la politique de lutte contre le jeu excessif, à côté du volet « prévention » organisé par le IX de l'article 34 et du volet « recherche » de l'article 3. Pour l'application pratique, il convient de vérifier quel organisme assure actuellement le service, la loi désignant nommément l'institut sans que la consolidation fasse apparaître d'actualisation de cette désignation.
+
+### Article 30
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2020-01-01 par Ordonnance n°2019-1015 du 2 octobre 2019 - art. 12)
+
+L'article 30 clôturait le chapitre VII (lutte contre le jeu excessif ou pathologique), après l'article 29 relatif au numéro d'appel mis à la disposition des joueurs. Selon la source, il est abrogé à compter du 1er janvier 2020 par l'article 12 de l'ordonnance n° 2019-1015 du 2 octobre 2019 ; son contenu n'est pas reproduit et le commentaire ne le reconstitue pas.
 
 #### CHAPITRE VIII — LA TRANSPARENCE DES OPERATIONS DE JEU
 
@@ -446,6 +530,6 @@ Le IV pose en revanche une interdiction structurelle et réciproque : un opérat
 
 L'article 33 est une disposition de renvoi réglementaire. Il confie à un décret en Conseil d'État la précision des modalités d'application des articles 23 (certifications), 25 à 28 (séparation comptable, rapports annuels sur le jeu responsable et la lutte contre la fraude, information sur les services d'assistance) et 32 (prévention des conflits d'intérêts). Le choix du décret en Conseil d'État, plutôt que d'un décret simple, s'explique par la nature des obligations en cause, qui touchent à la liberté d'entreprendre et à l'organisation interne des opérateurs.
 
-Le renvoi présente une particularité : la série « 25 à 28 » englobe l'article 26, qui ne figure plus dans le texte consolidé. Le renvoi ne produit donc d'effet que pour les articles 25, 27 et 28 effectivement en vigueur. Les articles 29 et 31 ne sont pas visés : le premier repose sur l'action des pouvoirs publics et l'application du second se rattache au décret mentionné au I de l'article 38, qui précise la liste des données, leurs modalités de stockage et de transmission et la durée d'archivage.
+Le renvoi présente une particularité : la série « 25 à 28 » englobe l'article 26, abrogé depuis le 1er janvier 2020 selon la source. Le renvoi ne produit donc d'effet que pour les articles 25, 27 et 28 effectivement en vigueur. Les articles 29 et 31 ne sont pas visés : le premier repose sur l'action des pouvoirs publics et l'application du second se rattache au décret mentionné au I de l'article 38, qui précise la liste des données, leurs modalités de stockage et de transmission et la durée d'archivage.
 
 D'un point de vue pratique, l'article 33 rappelle que la loi n'épuise pas le régime applicable aux opérateurs agréés. Pour déterminer le contenu exact d'une obligation de certification, de compte rendu ou de déclaration d'intérêts, il faut combiner la loi, le décret d'application et, le cas échéant, les décisions de l'Autorité nationale des jeux prises sur le fondement du VIII de l'article 34. La NOTA indique que la rédaction actuelle est en vigueur depuis le 1er janvier 2020.

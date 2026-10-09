@@ -262,6 +262,34 @@ Le choix des partenaires reflète les zones de contact du secteur des jeux avec 
 
 Le second alinéa règle le sort des informations échangées : elles sont couvertes par le secret professionnel dans les conditions applicables à l'autorité qui les communique et à l'autorité destinataire. La levée du secret entre autorités ne crée donc pas une divulgation ; le secret suit l'information. La NOTA précise que ces dispositions sont entrées en vigueur le 1er janvier 2022 conformément à l'article 34 de la loi n° 2021-1382 du 25 octobre 2021, sous réserve des conditions d'application prévues aux II et III de cet article. L'article 39-1 complète l'article 39 (relations avec l'Autorité de la concurrence), le XI de l'article 34 (coopération internationale) et le II de l'article 42 (coopération avec le ministère de l'intérieur).
 
+### Article 39-2
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2020-01-01 par Ordonnance n°2019-1015 du 2 octobre 2019 - art. 12)
+
+L'article 39-2 se situait au chapitre X, consacré à l'Autorité nationale des jeux, à la suite de l'article 39-1, qui organise la coopération entre l'Autorité et d'autres autorités. Selon la source, il est abrogé à compter du 1er janvier 2020 par l'article 12 de l'ordonnance n° 2019-1015 du 2 octobre 2019 ; son texte n'est pas reproduit.
+
+### Article 39-3
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2020-01-01 par Ordonnance n°2019-1015 du 2 octobre 2019 - art. 12)
+
+L'article 39-3 a été abrogé en même temps que l'article 39-2 : selon la source, il est abrogé à compter du 1er janvier 2020 par l'article 12 de l'ordonnance n° 2019-1015 du 2 octobre 2019. Son contenu n'est pas reproduit et le commentaire ne le reconstitue pas ; il est mentionné pour la complétude de la numérotation du chapitre X.
+
+### Article 40
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Livre des procédures fiscales
+>
+> Art. L84 B, Art. L135 U
+
+L'article 40, placé au chapitre X (Autorité nationale des jeux), a modifié selon la source les articles L. 84 B et L. 135 U du livre des procédures fiscales. Il est purement modificatif et n'a pas de période de vigueur propre dans la base LEGI ; les règles résultant de la modification figurent dans le livre des procédures fiscales.
+
 ### Article 41
 
 **Texte de la disposition:**
@@ -462,6 +490,176 @@ Le deuxième alinéa soumet la médiation aux conditions du titre Ier du livre V
 
 Le dernier alinéa contient une règle protectrice importante : la saisine du médiateur suspend la prescription de toute action civile ou pénale à compter du jour où il est saisi. Le joueur peut ainsi tenter un règlement amiable sans risquer de perdre son droit d'agir en justice. La médiation s'insère dans un parcours de réclamation qui commence par la procédure interne gratuite que l'opérateur doit présenter dès la demande d'agrément (article 19) et peut se poursuivre devant le juge.
 
+#### CHAPITRE XI — DISPOSITIONS FISCALES
+
+### Article 46
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes
+>
+> Code général des impôts
+>
+> Art. 1012
+
+L'article 46 ouvre le chapitre XI, consacré aux dispositions fiscales, dont tous les articles (46 à 55) sont purement modificatifs. Selon la source, il a modifié l'article 1012 du code général des impôts. Il n'a pas de contenu normatif autonome dans la version consolidée : la fiscalité des jeux en ligne résulte des textes modifiés par le chapitre XI.
+
+### Article 47
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Code général des impôts, CGI.
+>
+> Sct. Chapitre XX : Prélèvements sur les jeux et paris, Art. 302 bis ZG, Art. 302 bis ZH, Art. 302 bis ZI, Art. 302 bis ZJ, Art. 302 bis ZK, Art. 302 bis ZL, Art. 302 bis ZM, Art. 302 bis ZN
+
+L'article 47 est la pièce centrale du chapitre XI (dispositions fiscales). Selon la source, il a modifié le code général des impôts en y insérant ou modifiant un « chapitre XX : Prélèvements sur les jeux et paris », comprenant les articles 302 bis ZG à 302 bis ZN.
+
+L'intitulé de ce chapitre du code indique que les prélèvements sur les jeux et paris sont régis par le code général des impôts et non par la loi elle-même. L'article 47 ne conserve dans la loi que la trace de cette opération ; la base LEGI ne lui attribue pas de période de vigueur, et le régime fiscal applicable doit être recherché dans les articles 302 bis ZG à 302 bis ZN du code dans leur rédaction en vigueur.
+
+### Article 48
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Code de la sécurité sociale.
+>
+> Art. L137-20, Art. L137-21, Art. L137-22, Art. L137-23, Art. L137-24, Art. L137-25, Art. L137-26, Art. L136-7-1, Art. L139-1, Art. L241-2
+
+L'article 48 concerne le code de la sécurité sociale. Selon la source, il a modifié les articles L. 136-7-1, L. 137-20 à L. 137-26, L. 139-1 et L. 241-2 de ce code.
+
+Ces modifications constituent le volet social du chapitre XI, à côté des dispositions du code général des impôts visées par l'article 47 ; la loi n'en reproduit pas le contenu. L'article est purement modificatif ; il n'a pas de contenu normatif autonome dans la version consolidée et la base LEGI ne lui attribue pas de période de vigueur.
+
+### Article 49
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Code de la sécurité sociale.
+>
+> Art. L136-8, Art. L139-1
+>
+> A modifié les dispositions suivantes :
+>
+> - Code de la sécurité sociale.
+>
+> Art. L136-8
+
+L'article 49 a également modifié le code de la sécurité sociale : selon la source, il a modifié les articles L. 136-8 et L. 139-1, puis de nouveau l'article L. 136-8, la double mention « A modifié les dispositions suivantes » traduisant deux opérations successives réunies dans le même article.
+
+Il s'inscrit, avec l'article 48, dans le volet social du chapitre XI. Comme les autres articles de ce chapitre, il n'a pas de période de vigueur propre ; les règles applicables résultent des articles du code de la sécurité sociale modifiés, qu'il convient de consulter dans leur rédaction en vigueur.
+
+### Article 50
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Ordonnance n°96-50 du 24 janvier 1996
+>
+> Art. 18, Art. 19
+
+L'article 50 a modifié, selon la source, les articles 18 et 19 de l'ordonnance n° 96-50 du 24 janvier 1996. Article modificatif du chapitre XI (dispositions fiscales), il n'a pas de contenu normatif autonome dans la version consolidée ; la règle résultante figure dans l'ordonnance modifiée.
+
+### Article 51
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> -Code général des impôts, CGI.
+>
+> Art. 1609 novovicies, Art. 1609 tricies, Art. 1609 untricies, Art. 1609 duotricies
+>
+> -Loi n° 2005-1719 du 30 décembre 2005
+>
+> Art. 53
+>
+> -Code du sport.
+>
+> Art. L411-1, Art. L411-2
+
+L'article 51 a modifié, selon la source, les articles 1609 novovicies, 1609 tricies, 1609 untricies et 1609 duotricies du code général des impôts, l'article 53 de la loi n° 2005-1719 du 30 décembre 2005 ainsi que les articles L. 411-1 et L. 411-2 du code du sport.
+
+L'article réunit ainsi, au sein du chapitre consacré aux dispositions fiscales, des modifications du code général des impôts et du code du sport ; la loi n'en précise pas ici l'objet. L'article est purement modificatif et n'a pas de période de vigueur propre dans la base LEGI ; le droit applicable résulte des textes modifiés.
+
+### Article 52
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Code général des impôts, CGI.
+>
+> Art. 1609 tertricies
+
+L'article 52 a modifié, selon la source, l'article 1609 tertricies du code général des impôts. Il complète l'article 51, qui visait des articles voisins du même code, et n'a pas de contenu normatif autonome dans la version consolidée.
+
+### Article 53
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Code général des impôts, CGI.
+>
+> Art. 261 E
+
+L'article 53 a modifié, selon la source, l'article 261 E du code général des impôts. Article modificatif du chapitre XI, il ne régit par lui-même aucune situation ; la règle résultante doit être recherchée dans le code général des impôts dans sa rédaction en vigueur.
+
+### Article 54
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> -Loi n° 84-1208 du 29 décembre 1984
+>
+> Art. 42
+>
+> -Loi n° 86-824 du 11 juillet 1986
+>
+> Art. 6
+>
+> A abrogé les dispositions suivantes :
+>
+> -Code général des impôts, CGI.
+>
+> Art. 919 A, Art. 919 B, Art. 919 C
+>
+> -Loi n° 2006-1771 du 30 décembre 2006
+>
+> Art. 139
+
+L'article 54 combine des modifications et des abrogations. Selon la source, il a modifié l'article 42 de la loi n° 84-1208 du 29 décembre 1984 et l'article 6 de la loi n° 86-824 du 11 juillet 1986, et il a abrogé les articles 919 A, 919 B et 919 C du code général des impôts ainsi que l'article 139 de la loi n° 2006-1771 du 30 décembre 2006.
+
+Il montre que le chapitre XI a, tout à la fois, retouché et supprimé des dispositions fiscales antérieures. L'article n'a pas de période de vigueur propre dans la base LEGI ; son effet s'est épuisé dans la modification et l'abrogation des textes visés.
+
+### Article 55
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Code général des collectivités territoriales
+>
+> Art. L2333-54, Art. L2333-56
+>
+> A modifié les dispositions suivantes :
+>
+> - Code général des collectivités territoriales
+>
+> Art. L2333-54
+>
+> Modifie : Code du tourisme. - art. L422-12 (M)
+
+L'article 55 clôt le chapitre XI (dispositions fiscales). Selon la source, il a modifié les articles L. 2333-54 et L. 2333-56 du code général des collectivités territoriales, puis de nouveau l'article L. 2333-54, ainsi que l'article L. 422-12 du code du tourisme, signalé comme modifié depuis (« (M) »).
+
+La loi ne précise pas le contenu de ces modifications, qu'il faut rechercher dans les codes modifiés. L'article est purement modificatif et n'a pas de contenu normatif autonome dans la version consolidée.
+
 #### CHAPITRE XII — MESURES DE LUTTE CONTRE LES SITES ILLEGAUX DE JEUX D'ARGENT
 
 ### Article 56
@@ -508,6 +706,18 @@ Le second alinéa étend les mêmes peines à quiconque diffuse au public, aux f
 
 L'article 57 est mis en œuvre par la procédure administrative de l'article 61, deuxième alinéa : le président de l'Autorité nationale des jeux adresse au promoteur une mise en demeure de cesser, rappelant les dispositions de l'article 57 applicables. Les agents mentionnés à l'article 59 peuvent constater la promotion d'une offre illégale, et les agents de l'Autorité y sont habilités par l'article 42, II. Le contrôle de la publicité des opérateurs légaux relève d'un autre mécanisme : l'approbation de leur stratégie promotionnelle et le retrait de communications incitatives (article 34, IV).
 
+### Article 58
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Code de procédure pénale
+>
+> Art. 28-1
+
+L'article 58, placé au chapitre XII (mesures de lutte contre les sites illégaux de jeux d'argent), a modifié selon la source l'article 28-1 du code de procédure pénale. Il complète, sur le plan procédural, les incriminations de l'offre illégale (article 56) et de la publicité en faveur de sites non autorisés (article 57) ; il n'a pas de contenu normatif autonome dans la version consolidée.
+
 ### Article 59
 
 **Texte de la disposition:**
@@ -538,6 +748,18 @@ Les actes autorisés sont : participer sous une identité d'emprunt à des écha
 
 Les alinéas suivants règlent l'exploitation des constatations. Les agents des douanes peuvent obtenir communication des documents utiles selon l'article 65 du code des douanes. Les informations sont consignées dans un procès-verbal transmis sans délai au procureur de la République. Ce procès-verbal peut être utilisé par l'Autorité, notamment pour la procédure de l'article L. 563-2 du code monétaire et financier et pour la procédure de blocage de l'article 61, le secret bancaire n'étant pas opposable aux enquêteurs assermentés. Il est aussi tenu à la disposition de l'administration fiscale selon l'article L. 84 B du livre des procédures fiscales.
 
+### Article 60
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Code des douanes
+>
+> Art. 65 ter
+
+L'article 60 a modifié, selon la source, l'article 65 ter du code des douanes. Article de coordination du chapitre XII (lutte contre les sites illégaux de jeux d'argent), il n'a pas de période de vigueur propre dans la base LEGI ; la règle résultante figure dans le code des douanes.
+
 ### Article 61
 
 **Texte de la disposition:**
@@ -561,6 +783,86 @@ L'article 61 organise la procédure administrative de lutte contre les sites ill
 Le troisième alinéa associe les hébergeurs (personnes visées au 2 du I de l'article 6 de la loi n° 2004-575) : ils reçoivent copie des mises en demeure et une injonction de prendre toute mesure pour empêcher l'accès aux contenus illicites, avec un délai de cinq jours pour leurs observations. Le quatrième alinéa organise le blocage proprement dit : une fois tous les délais échus, le président notifie aux fournisseurs d'accès (1 du I de l'article 6 de la même loi), aux exploitants de moteurs de recherche ou d'annuaires et aux fournisseurs de services de contournement les adresses des interfaces illicites et leur ordonne d'en empêcher l'accès ou d'en faire cesser le référencement dans un délai d'au moins cinq jours. La mesure est administrative ; elle ne requiert pas d'autorisation préalable d'un juge selon le texte.
 
 Le cinquième alinéa définit l'« interface en ligne » (tout logiciel, site ou application permettant d'accéder aux biens ou services d'un professionnel) et le « fournisseur d'un service numérique intermédiaire de contournement », par renvoi à la notion de simple transport du règlement (UE) 2022/2065 sur les services numériques ; cette dernière catégorie vise notamment les services permettant de contourner les restrictions d'accès. Le sixième alinéa sanctionne le non-respect des mesures ordonnées par les peines du 1 du VI de l'article 6 de la loi n° 2004-575. Le dernier alinéa permet au ministère public et à toute personne ayant intérêt à agir de saisir le président pour qu'il mette en œuvre ces pouvoirs ; les opérateurs agréés concurrents peuvent ainsi solliciter l'action contre l'offre illégale. Le procès-verbal établi en application de l'article 59 peut servir de base à cette procédure.
+
+### Article 62
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Code monétaire et financier
+>
+> Art. L563-2
+
+L'article 62 a modifié, selon la source, l'article L. 563-2 du code monétaire et financier. Il s'inscrit dans le chapitre XII, entre l'article 61, qui organise l'action du président de l'Autorité nationale des jeux à l'égard des offres illégales accessibles en France, et les dispositions suivantes ; il est purement modificatif et n'a pas de contenu normatif autonome.
+
+#### CHAPITRE XIII — DISPOSITIONS RELATIVES A L'EXPLOITATION DES MANIFESTATIONS SPORTIVES ET A LA LUTTE CONTRE LA FRAUDE ET LA TRICHERIE DANS LE CADRE DE CES MANIFESTATIONS
+
+### Article 63
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Code du sport.
+>
+> Sct. Chapitre III : Exploitation des manifestations sportives, Art. L333-1-1, Art. L333-1-2, Art. L333-1-3
+
+L'article 63 constitue à lui seul le chapitre XIII, consacré à l'exploitation des manifestations sportives et à la lutte contre la fraude et la tricherie dans le cadre de ces manifestations. Selon la source, il a modifié le code du sport en y insérant ou modifiant un « chapitre III : Exploitation des manifestations sportives », comprenant les articles L. 333-1-1 à L. 333-1-3.
+
+Le chapitre XIII de la loi n'a donc pas de règle autonome : le régime de l'exploitation des manifestations sportives par les paris figure dans le code du sport. L'article n'a pas de période de vigueur propre dans la base LEGI.
+
+#### CHAPITRE XIV — DISPOSITIONS RELATIVES AUX ACTIVITES DE JEUX ET PARIS PLACEES SOUS LE REGIME DE DROITS EXCLUSIFS
+
+### Article 64
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> -Code monétaire et financier
+>
+> Art. L561-36
+
+L'article 64 ouvre le chapitre XIV, consacré aux activités de jeux et paris placées sous le régime de droits exclusifs. Selon la source, il a modifié l'article L. 561-36 du code monétaire et financier. La même série d'articles du code est visée par l'article 22, placé au chapitre relatif à la lutte contre le blanchiment ; l'article 64 est purement modificatif et n'a pas de contenu normatif autonome dans la version consolidée.
+
+### Article 65
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Loi du 2 juin 1891
+>
+> Art. 2, Art. 5
+
+L'article 65 a modifié, selon la source, les articles 2 et 5 de la loi du 2 juin 1891. Article modificatif du chapitre XIV (droits exclusifs), il n'a pas de période de vigueur propre dans la base LEGI ; la règle résultante figure dans la loi de 1891 modifiée.
+
+### Article 66
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2020-01-01 par LOI n°2012-1510 du 29 décembre 2012 - art. 88 (VT))
+
+L'article 66 relevait du chapitre XIV (droits exclusifs). Selon la source, il est abrogé à compter du 1er janvier 2020 par l'article 88 de la loi n° 2012-1510 du 29 décembre 2012 ; la mention « (VT) » désigne, selon les conventions de la base LEGI, une disposition en vigueur assortie d'un terme. Son contenu n'est pas reproduit et le commentaire ne le reconstitue pas.
+
+### Article 67
+
+**Texte de la disposition:**
+
+> I. A modifié les dispositions suivantes :
+>
+> Loi n° 84-1208 du 29 décembre 1984
+>
+> Art. 42
+>
+> II. A modifié les dispositions suivantes
+>
+> Loi n° 83-628 du 12 juillet 1983
+>
+> Art. 2
+
+L'article 67 clôt le chapitre XIV. La source le reproduit sous la forme de deux mentions « A modifié les dispositions suivantes », visant respectivement, en son I, l'article 42 de la loi n° 84-1208 du 29 décembre 1984 et, en son II, l'article 2 de la loi n° 83-628 du 12 juillet 1983. Il est purement modificatif et n'a pas de période de vigueur propre ; le chapitre XV, consacré aux dispositions transitoires et finales, s'ouvre ensuite avec l'article 68.
 
 #### CHAPITRE XV — DISPOSITIONS TRANSITOIRES ET FINALES
 
